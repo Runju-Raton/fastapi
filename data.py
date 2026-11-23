@@ -1,44 +1,122 @@
-menu_items = [
-  {
-    "id": 1,
-    "name": "Masala Chai",
-    "category": "chai",
-    "description": "Classic Indian spiced tea",
-    "available": True
-  },
-  {
-    "id": 2,
-    "name": "Ginger Cardamom Chai",
-    "category": "chai",
-    "description": "Soothing black tea infused with fresh ginger and green cardamom pods",
-    "available": True
-  },
-  {
-    "id": 3,
-    "name": "Iced Rose Chai",
-    "category": "chai",
-    "description": "Chilled spiced milk tea topped with fragrant rosewater and crushed pistachios",
-    "available": True
-  },
-  {
-    "id": 4,
-    "name": "Mango Lassi",
-    "category": "cold drinks",
-    "description": "Creamy yogurt smoothie blended with sweet Alphonso mangoes",
-    "available": True
-  },
-  {
-    "id": 5,
-    "name": "Vegetable Samosa",
-    "category": "snacks",
-    "description": "Crispy golden pastry filled with spiced potatoes and green peas",
-    "available": True
-  },
-  {
-    "id": 6,
-    "name": "Paneer Pakora",
-    "category": "snacks",
-    "description": "Cottage cheese fritters dipped in seasoned chickpea batter and fried",
-    "available": True
-  }
-]
+pincode_db = {
+    "110001": {
+        "pincode": "110001",
+        "city": "New Delhi",
+        "state": "Delhi",
+        "district": "Central Delhi",
+    },
+    "400001": {
+        "pincode": "400001",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "district": "Mumbai City",
+    },
+    "560001": {
+        "pincode": "560001",
+        "city": "Bangalore",
+        "state": "Karnataka",
+        "district": "Bangalore Urban",
+    },
+    "700001": {
+        "pincode": "700001",
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "district": "Kolkata",
+    },
+    "600001": {
+        "pincode": "600001",
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "district": "Chennai",
+    },
+    "500001": {
+        "pincode": "500001",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "district": "Hyderabad",
+    },
+    "411001": {
+        "pincode": "411001",
+        "city": "Pune",
+        "state": "Maharashtra",
+        "district": "Pune",
+    },
+    "380001": {
+        "pincode": "380001",
+        "city": "Ahmedabad",
+        "state": "Gujarat",
+        "district": "Ahmedabad",
+    },
+    "302001": {
+        "pincode": "302001",
+        "city": "Jaipur",
+        "state": "Rajasthan",
+        "district": "Jaipur",
+    },
+    "226001": {
+        "pincode": "226001",
+        "city": "Lucknow",
+        "state": "Uttar Pradesh",
+        "district": "Lucknow",
+    },
+    "160017": {
+        "pincode": "160017",
+        "city": "Chandigarh",
+        "state": "Chandigarh",
+        "district": "Chandigarh",
+    },
+    "462001": {
+        "pincode": "462001",
+        "city": "Bhopal",
+        "state": "Madhya Pradesh",
+        "district": "Bhopal",
+    },
+    "800001": {
+        "pincode": "800001",
+        "city": "Patna",
+        "state": "Bihar",
+        "district": "Patna",
+    },
+    "751001": {
+        "pincode": "751001",
+        "city": "Bhubaneswar",
+        "state": "Odisha",
+        "district": "Khordha",
+    },
+    "682001": {
+        "pincode": "682001",
+        "city": "Kochi",
+        "state": "Kerala",
+        "district": "Ernakulam",
+    },
+    "781001": {
+        "pincode": "781001",
+        "city": "Guwahati",
+        "state": "Assam",
+        "district": "Kamrup Metropolitan",
+    },
+    "143001": {
+        "pincode": "143001",
+        "city": "Amritsar",
+        "state": "Punjab",
+        "district": "Amritsar",
+    },
+    "208001": {
+        "pincode": "208001",
+        "city": "Kanpur",
+        "state": "Uttar Pradesh",
+        "district": "Kanpur Nagar",
+    },
+    "440001": {
+        "pincode": "440001",
+        "city": "Nagpur",
+        "state": "Maharashtra",
+        "district": "Nagpur",
+    },
+    "452001": {
+        "pincode": "452001",
+        "city": "Indore",
+        "state": "Madhya Pradesh",
+        "district": "Indore",
+    },
+}
